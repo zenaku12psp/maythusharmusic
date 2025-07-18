@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 STICKER_ID = "CAACAgUAAxkBAAEObxloHODEbJMRLG0DgnPYJ7bOUXc5QwACmRkAAg6V6FSBJlu8dUgdCTYE"
 
-COOKIE_URL = getenv("https://batbin.me/minahassian")
+#COOKIE_URL = getenv("https://batbin.me/minahassian")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -39,7 +39,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/zenaku10psp/maythusharmusic",
+    "https://github.com/zenaku12psp/maythusharmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
