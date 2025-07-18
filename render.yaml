@@ -1,25 +1,25 @@
 services:
   - type: worker
-    name: maythusharv3
+    name: maythushar 2
     env: docker
     dockerfilePath: ./Dockerfile
     plan: pro
-    region: oregon
+    region: frankfurt
     buildCommand: pip3 install --no-cache-dir --upgrade --requirement requirements.txt
     envVars:
       - key: API_ID
-        value: "23596049"
+        value: "23301178"
       - key: API_HASH
-        value: "62c2019123d852fc8cc2092ca879f31c"
+        value: "7387774d17aaa79c3744ff5d9d148214"
       - key: BOT_TOKEN
-        value: "7892011487:AAEgqHEy3x9TUgZ7i9LZaaz4vDO6v3Pv0EU"
+        value: "8047488288:AAG_JCuzXuFXuLTImYvvTiMv-LoMkOnjVR8"
       - key: MONGO_DB_URI
-        value: "mongodb+srv://wanglin:wanglin@wanglin.ppt93bd.mongodb.net/?retryWrites=true&w=majority"
+        value: "mongodb+srv://pyaesonev1:pyaesone@pyaesonev1.4nssv9g.mongodb.net/?retryWrites=true&w=majority"
       - key: OWNER_ID
         value: "6940535380"
       - key: LOGGER_ID
-        value: "-1001901470191"
-      - key: COOKIE_URL
-        value: "https://batbin.me/minahassian"
+        value: "-1002016915736"
+      #- key: COOKIE_URL
+       # value: "https://batbin.me/finner"
       - key: STRING_SESSION
-        value: "BQFoDBEArtikhUPMxnqgDEOP66B4SNXFo9gZpd7SPOt_Gsa5tVwM0KnHhwe8AaFFzROhR6vD5htGc1y_8YpQil-FhPGY8IXXp0qEyP0CyyaX5PDm8fw54non08llLqroIAJ7zA9sW0sZ1yzapAN0jjyPvukn0sFHLt84YchAAaqIWumpVuHq1NbYGEXHiMu4TEe-gxpf-Y2sJkTlmKGeN37rMIGG1xrmq2NkwMtXsh90KBrJS6KccKmwKjRraiwLA0mJTe3qTzP23nqe7udGDn40LnbfLdrD9MhuLuU5aSpw63GKTDzfg8C689M4_5xpR1PuuaCKSnyyz9ORjWpCUEg8g6WmRAAAAAFQk4y9AA"
+        value: "BQFjjDoAgKIek3guN38v16Yvok5EdnUCFbKg5wh9igNgRmjJ5MQ0Y0paTQI1N8MhC8kC-qIPTyPHXWXyxvgcKNqm3_poWvE6W7goZDTWnuWEL5SZVBEUQDWiOF2Zco9nhjJLRGKBO62tE010mXgbyV12gwTIAHTHHQEUTwBLJXDYuH_gJ6u5TS8CTwUmYVOPF8txya8F_FY-3dXqFQ-wPiJH-71pqKkRfS5ZRWGeiQs-UHAljDmlAwENLWxm7W6Vym22WzjycHkCiv6ZDe5nMiFEtSG_6Q7lDY3paRGULF2TRDHGWn7SfXYxk-fprC2Hhsald2b37BaCx7AE1WzV1DAdKZvsYwAAAAFsjYQzAA"
