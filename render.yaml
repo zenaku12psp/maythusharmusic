@@ -5,7 +5,7 @@ services:
     dockerfilePath: ./Dockerfile
     plan: pro
     region: frankfurt
-    buildCommand: pip3 install --no-cache-dir --upgrade --requirement requirements.txt
+    buildCommand: pip3 install --no-cache-dir --upgrade -r requirements.txt
     envVars:
       - key: API_ID
         value: "23301178"
