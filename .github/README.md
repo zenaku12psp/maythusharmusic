@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <a href="https://render.com/deploy?repo=https://github.com/zenaku565usm/maythusharmusic">
+    <a href="https://render.com/deploy?repo=https://github.com/zenaku12psp/maythusharmusic">
         <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" width="220" height="38.45"/>
     </a>
 </p>
@@ -49,7 +49,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/zenaku565usm/maythusharmusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/zenaku12psp/maythusharmusic/blob/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
@@ -73,7 +73,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/zenaku565usm/maythusharmusic && cd maythusharmusic
+   git clone https://github.com/zenaku12psp/maythusharmusic && cd maythusharmusic
    ```
 6. **Install Requirements**
    ```bash
